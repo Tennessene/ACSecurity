@@ -1,0 +1,10 @@
+name: ACSecurity
+version: '${project.version}'
+main: me.acclashcorporation.acsecurity.ACSecurity
+api-version: 1.18
+authors: [ Anston_Sorensen ]
+description: A plugin that manages cheating and the chat.
+website: www.acclash.com
+commands:
+  actest:
+    description: Test the anti-cheat.
